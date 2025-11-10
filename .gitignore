@@ -1,0 +1,10 @@
+# Root-level ignores
+node_modules/
+.env
+
+# Ignore frontend & backend build outputs
+frontend/node_modules/
+backend/node_modules/
+frontend/build/
+frontend/dist/
+backend/build/
